@@ -14,8 +14,6 @@
 
 4. The upscale rate is not exactly 2. After the upscaling, the image size will be 2*origin_size-4, because the padding pixels are removed from the output in default.
 
-### Sponsor 
-
 More latest AI informations come from AI PAPER FEED
 
 ![AIPAPERFEED](AI日读.jpg)
